@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Kanit;
+}
+body {
+    text-align: center;
+    background-color: burlywood;
+    color: orange;
+    background: url(Ibiza\ corner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 5px;
+}
+.Apie-Mane {
+    border: 8px;
+    border-style: outset;
+    border-color: burlywood;
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 0 30px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 10;
+    font-size: 20px;
+    font-size: 2em;
+    letter-spacing: 3px;
+}
+p {
+    text-align: center;
+    color: lightyellow;
+    font-size: 0.5;
+    
+}
+img {
+    border: 1px solid;
+    width: 250px;
+    height: 300px;
+    border-radius: 50px;
+}
+h3 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: lightyellow;
+}
+h4 {
+    text-align: center;
+    padding-right: 600px;
+}
+table {
+    margin: auto;
+}
+th, td {
+    margin: auto;
+    border: 2px solid burlywood;
+    padding: 10px;
+    color: rgb(212, 217, 226);
+}
